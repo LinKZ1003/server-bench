@@ -42,8 +42,8 @@
 ### 一键全装 + 全测
 
 ```bash
-git clone https://github.com/LinKZ1003/server-bench.git
-cd server-bench
+git clone https://github.com/LinKZ1003/ServerBench.git
+cd ServerBench
 sudo python3 autoOCMIMO.py --all
 ```
 

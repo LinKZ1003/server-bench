@@ -42,9 +42,9 @@
 ### 一键全装 + 全测
 
 ```bash
-git clone https://github.com/LinKZ1003/your-repo.git
-cd your-repo
-sudo python3 autoOCMIMO.py --all
+git clone https://github.com/LinKZ1003/server-bench.git
+cd server-bench
+sudo python3 autoOCMIMO.py
 ```
 
 ### 交互模式（推荐新手）
